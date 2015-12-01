@@ -1,6 +1,6 @@
 <meta charset = "utf-8">
 <script>
-var b = 77;
+var b = 776;
 var a = "Hello, friend!";
 alert(a);
 alert(a + " !");
