@@ -3,5 +3,5 @@
 var b = 77;
 var a = "Hello, friend!";
 alert(a);
-alert(a + " ! yes or no");
+alert(a + " ! yes or no!!@#$");
 </script>
