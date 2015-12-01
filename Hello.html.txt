@@ -2,5 +2,5 @@
 <script>
 var a = "Hello, friend!";
 alert(a);
-alert(a + " !");
+alert(a + " ! yes or no");
 </script>
