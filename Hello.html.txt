@@ -2,7 +2,9 @@
 <script>
 var b = 776;
 var a = "Hello, friend!";
+
 alert(a);
 alert(a + " ! yes or no!!@#$");
 alert("How are you?");
+
 </script>
